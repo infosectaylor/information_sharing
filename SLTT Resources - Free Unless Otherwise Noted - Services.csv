@@ -1,0 +1,118 @@
+Service,Category,Agency,Benefits,Contact:
+Federal Bureau of Investigation,Analysis,FBI,"Report cybercrimes, including intrusions or attacks, fraud, intellectual property theft, identity theft, theft or trade secrets, criminal hacking, terrorist
+activity, espionage, sabotage, or other foreign intelligence activity.","See Federal Bureau of Investigation tab for local field office 
+information"
+Malicious Code Analysis Platform (MCAP),Analysis,MS-ISAC,"MCAP is a web-based service which allows members to submit suspicious files, including executables, dlls, documents, quarantine files and archives 
+for analysis in a controlled and non-public fashion. MCAP also enables users to perform threat analysis based on domain, IP address, URL, HASH, 
+and various IOCs. MCAP users are able to obtain the results from analysis, behavioral characteristics and additional detailed information which allows 
+users to remediate the incident in a timely manner. This communication with our members provides the MS-ISAC with the situational awareness 
+needed to assess the malware threat characteristics facing our SLTT government entities on a national level.",https://learn.cisecurity.org/ms-isac-registration
+Malware Analysis,Analysis,NCCIC,"The Advanced Malware Analysis Center provides 24/7 dynamic analysis of malicious code. Stakeholders submit samples via an online website 
+and receive a technical document outlining analysis results. Experts detail recommendations for malware removal and recovery activities. This service 
+can be performed in conjunction with incident response services if required.","www.malware.us-cert.gov
+
+submit@malware.us-cert.gov "
+Malware Analysis,Analysis,Fusion Center,Not all fusion centers offer this service. Check with them to gain the email address to forward malicious emails.,"See Fusion Centers tab for local center information. Recognized centers have limitied
+services"
+United States Immigration and Customs Enforcement,Analysis,ICE/HSI,"Repot cyber-enabled crime including digital theft of intellectual property; illicit e-commerce (including hidden marketplaces); Internet-faciliatated 
+proliferation or arms and strategic technology; child pornography; and cyber-enabled smuggling and money laundering","Tip Line: 866-347-2423
+See HSI tab for local field office information"
+United States Secret Service,Analysis,US Secret Service,"Report cybercrimes, including computer intrusions or attacks, transmission of malicious code, password trafficking, or theft of payment card or other
+financial payment information",https://www.secretservice.gov/contact/field-offices/
+Cyber Infrastructure Survey,Assessment,CISA/DHS,"Evaluates the effectiveness of organizational security controls, cybersecurity preparedness, and the overall resilience of an organizaion's
+cybersecurity ecosystem. Survey five domains: Cybersecurity Management, Cybersecurity Forces, Cybersecurity Controls, 
+Cybersecurity Incident Response, Cybersecurity Dependencies",cyberadvisor@hq.dhs.gov 
+Cyber Resilience Review,Assessment,CISA/DHS,"Measure an organization's capabilites among ten domains: Asset Management, Controls Management, Configuration and Change Management, 
+Vulnerability Management, Incident Management, Service Continuity Management, Risk Management, External Depndency  Management, 
+Training and Awareness, Situational Awarenesss","Self-Assement: https://www.us-cert.gov/ccubedvp/assessments 
+Facilitated Assessment: cyberadvisor@hq.dhs.gov"
+Cyber Security Evaluation Tool,Assessment,NCCIC,"The Cyber Security Evaluation Tool (CSET®) is a stand-alone desktop application that guides asset owners and operators through a systematic 
+process of evaluating Operational Technology and Information Technology. After completing the evaluation, the organization will receive reports 
+that present the assessment results in both a summarized and detailed manner. The organization will be able to manipulate and filter content in 
+order to analyze findings with varying degrees of granularity.",ncciccustomerservice@hq.dhs.gov
+External Dependencies Management Assessment,Assessment,CISA/DHS,Interview-based assessment to manage an organization's management of external dependencies; Supply chain and vendor review.,cyberadvisor@hq.dhs.gov 
+Validated Architecture Design Review,Assessment,NCCIC,"The Validated Architecture Design Review (VADR) encompasses architecture and design review, system configuration, log file review, and analysis
+of network traffic to develop a detailed representation of the communications, flows, and relationships between devices in order to identify 
+anomalous communication flows. After the review, the organization will receive an in-depth report that includes key discoveries and practical
+recommendations for improving operational maturity and cybersecurity posture.",ncciccustomerservice@hq.dhs.gov
+Vulnerability Assessments,Assessments,MS-ISAC,"For state, local, tribal, and territorial (SLTT) entities experiencing a targeted cyber threat, MS-ISAC provides a free network and web application
+ vulnerability assessment. These assessments include a manual analysis and verification of vulnerabilities discovered, prioritized remediation steps, 
+customized reporting, and remediation support.",https://learn.cisecurity.org/ms-isac-registration
+Cyber Exercise consulting,Education,NCCIC,"For entities that prefer to develop their own exercises, NCCIC provides subject matter experts to consult on exercise design and development. 
+NCCIC also makes off-the-shelf resources available for stakeholder use, which includes a scenario library, the Cyber Tabletop Exercise Package, 
+Cyber Virtual Tabletop Exercises, and cyber incident response planning templates.",ncciccustomerservice@hq.dhs.gov
+Cyber planning support,Education,NCCIC,"Cyber planning support – Subject Matter Expert-run Cyber Planning Workshops are available to assist stakeholders with developing and revising
+integrated cyber plans.",ncciccustomerservice@hq.dhs.gov
+Cyber Storm,Education,NCCIC,"Cyber Storm is DHS’s flagship, biennial exercise series, which provides an opportunity for the Federal Government, SLTT organizations, and 
+the private sector to address cyber incident response as a community. Now on its sixth iteration, each exercise in the series has simulated the
+discovery of, and response to a coordinated CI cyber attack.",ncciccustomerservice@hq.dhs.gov
+FedVTE,Education,NICCS,"Free, online, on-demand cybersecurity training system managed by DHS that is available to federal and SLTT government personnel, veterans, 
+and federal government contractors, and contains more than 800 hours of training on topics such as ethical hacking, surveillance, risk management, 
+and malware analysis. The department’s efforts focus on building a strong cyber workforce that can keep up with evolving technology and
+increasing cybersecurity risks.",http://fedvte.usalearning.gov/
+Homeland Security Information Network (HSIN),Education,DHS,"Access to cybersecurity table-top execises, security policy templates, malicious domains/IP reports, contests",https://auth.dhs.gov/oam/hsinlogin/HSINLogin
+Incident Response Plan Templates,Education,MS-ISAC,Templates to help plan your incident response plan.,https://learn.cisecurity.org/ms-isac-registration
+Workforce Development,Education,NCCIC,"oolkit helps organizations understand their cybersecurity workforce and staffing need to protect their information, customers, and networks better.  
+The toolkit includes cybersecurity career path templates and recruitment resources to recruit and retain top cybersecurity talent.",niccs.us- cert.gov/workforce-development/cyber-security-workforce-framework
+Hunt and Incident Response Team (HIRT),Incident Response,NCCIC,"HIRT incident response is action taken to respond to a suspected incident and address the increased risk resulting from the incident. The goal is to 
+manage the situation in a way that ensures safety, reduces risk, limits damage and reduces recovery time and costs. Most response actions will be 
+technical in nature but any action taken to reduce the impact of an incident is considered part of the incident response. Following an engagement and 
+upon completion of analysis, the HIRT will deliver an Engagement Report (ER) to the customer within 30-60 days. The ER provides the background, 
+scope, findings, security best practices, and conclusions relevant to the hunt.","To report a cybersecurity incident: 888-282-0870 or email
+ncciccustomerservice@hq.dhs.gov"
+Incident Response,Incident Response,MS-ISAC,"Experiencing a cybersecurity incident? Even if your SLTT organization is not yet part of the MS-ISAC, you can reach out to us for help.",https://learn.cisecurity.org/ms-isac-registration
+National Guard,Incident Response,National Guard,"Cyber team fromt the National Guard said they can be activated for incident response in some cases and that every state now has a cyber unit.
+I do not have much more information on how to use their services, but wanted to note they may offer some assistance. May need to be activated
+at a state level.",
+National Cyber Investigation Joint Task Force,Incident Respose,FBI,"Report cyber intrustions and major cybercrimes that require assessment for action, investigation, and engagement with local FBI field offices.",NCIJTF CyWatch 24/7: 855-292-3937 or cywatch@ic.fbi.gov
+Advisories,Information Sharing,MS-ISAC,"The MS-ISAC® Security Operations Center (SOC) analyzes cyber threat information from a variety of sources and shares this information with 
+MS-ISAC members when necessary. Advisories can include important information about threats, vulnerabilities, exploits, attacks, and compromises. 
+In addition to these advisories, the MS-ISAC provides its members with weekly threat reports, monthly situational awareness reports, and a monthly 
+webcast. MS-ISAC members are also invited to schedule a conference call to discuss cyber threat concerns.",https://learn.cisecurity.org/ms-isac-registration
+Automated Indicator Sharing,Information Sharing,AIS,"Enables the exchange of cyber threat indicators between the Federal Government, SLTT governments, and the private sector at machine speed. T
+hreat indicators are pieces of information like malicious IP addresses or the sender’s address of a phishing email. AIS is part of a CISA effort to create 
+a cyber ecosystem where as soon as a stakeholder observes an attempted compromise, the cyber threat indicator of compromise (IOC) will be shared 
+in real time with all partners, protecting everyone from that particular threat.",www.us-cert.gov/ais
+C3 Voluntary Program Toolkit,Information Sharing,US-CERT,"To help SLTT government leaders get started, DHS has created a packet of resources specially designed to help them recognize and address their 
+cybersecurity risks.  Resources include discussion points for government leaders, steps to start evaluating a cybersecurity program, and a list of 
+hands-on resources available to SLTT governments.",https://www.us-cert.gov/sites/default/files/c3vp/sltt/Read_First_SLTT_Toolkit_Table_of_Contents.pdf
+Fusion Center,Information Sharing,Fusion Center,Classified advisory information network. Reported incidents will be anonymized if requested.,"See Fusion Centers tab for local center information. Recognized centers have limitied
+services"
+Protected Critcal Infrastructure Information (PCII) Program,Information Sharing,PCII,"Congress created the Protected Critical Infrastructure Information (PCII) Program under the Critical Infrastructure Information (CII) Act of 2002 to 
+protect private sector infrastructure information voluntarily shared with the government for the purposes of homeland security. CII voluntarily shared 
+with the government and validated as PCII by DHS is protected from: The Freedom of Information Act (FOIA), State/Local/Tribal/Territorial disclosure 
+laws, regulatory action, civil litigation.",https://www.dhs.gov/cisa/submit-cii-pcii-protection
+Remote Penetration Testing,Penetration Testing,NCCIC,"similar to a Risk and Vulnerability Assessment, Remote Penetration Testing focuses entirely on externally accessible systems. Methodologies 
+that Remote Penetration Testing may incorporate include the following: Scenari-based external network penetration testing, external web
+application testing, phishing campaign assessment",ncciccustomerservice@hq.dhs.gov
+Risk and Vulnerability Assessment (RVA),Penetration Testing,NCCIC,"Designed to identify vulnerabilities that adversaries could potentially exploit to compromise network security controls. Methodologies that a Risk 
+and Vulnerability Assessment may incorporate include the following: Scenario-based network penetration testing; web application testing;
+social engineering testing; wireless testing; configuration reviews of servers and databases; detection and response capability evaluation",ncciccustomerservice@hq.dhs.gov
+CIS SecureSuite Membership,Tools,MS-ISAC,"CIS SecureSuite Membership gives organizations around the world access to a collection of integrated cybersecurity resources such as CIS-CAT 
+Pro Assessor, remediation content, and CIS-CAT Pro Dashboard. All of these tools help users evaluate and apply secure configuration settings to 
+laptops, servers, network devices, and more. CIS SecureSuite Membership is free for U.S. SLTT government organizations.",https://learn.cisecurity.org/ms-isac-registration
+Continuous Diagnostics and Mitigation,Tools,CDM,"a suite of capabilities and tools that enables network administrators to know the counties in their respective networks at any given time, thus reducing 
+the attack surface of their networks; informs on the relative risks of threats; and makes it possible for system personnel to identify and mitigate flaws 
+at near-network speed.","cdm.arm@hq.dhs.gov NOTE: May not be free to SLTTs, but
+on cooperative purchase agreement, so should be low-cost"
+Enhanced Cybersecurity Services,Tools,ECS,"ECS is a near real-time intrusion detection and prevention capability, not a threat feed. CISA partners with approved service providers that have 
+completed a rigorous system accreditation process to offer ECS. Upon approval, these service providers receive unclassified, sensitive and classified 
+cyber threat information from CISA and use it to protect their ECS customers. The two primary ECS services are Domain Name System (DNS) 
+sinkholing and email filtering. These services block possible malware communications and spear phishing campaigns targeting networks.
+",www.dhs.gov/ecs
+Phishing Campaign Assessment,Tools,NCCIC,"Evaluates an organization's susceptibility and reaction to phishing emails of varying complexity. After the assessment, the organization will receive 
+a Phishing Campaign Assessment Report that highlights organizational click rates for varying types of phishing emails and summarizes metrics 
+related to the proclivity of the organization to fall victim to phishing attacks.",ncciccustomerservice@hq.dhs.gov
+Threat Notification,Tools,MS-ISAC,"MS-ISAC analysts work with trusted affiliates to conduct research and gather intelligence about cyber threats (such as website defacement) targeting 
+government or government-affiliated systems. Notices are sent to impacted MS-ISAC members based on predetermined escalation procedures. 
+The MS-ISAC also provides recommended remediation steps and technical assistance.",https://learn.cisecurity.org/ms-isac-registration
+Vulernability Scanning/Cyber Hygiene,Tools,NCCIC,"Vulnerability scanning (formerly known as Cyber Hygiene scanning) of internet-accessible systems for known vulnerabilities on a continual basis. 
+As potential vulnerabilities are identified, CISA notifies the organization so that preemptive risk mitigation efforts may be implemented in order to
+avert vulnerability exploitation. Weekly reports, Engineering support",ncciccustomerservice@hq.dhs.gov
+Vulnerability Management Program (VMP),Tools,MS-ISAC,"VMP notifies members on a monthly basis about any outdated software that could pose a threat to assets. A scripted GET request is sent to over 
+30,000 SLTT domains that the MS-ISAC maintains, to pull data on versioning information related to each domain. In order to alert members of 
+outdated software, the MS-ISAC collects server type and version (IIS, Apache, Nginx, etc.), web programming language and version (PHP, ASP, etc.), 
+and content management system and version (WordPress, Joomla, Drupal, etc.) Following the analysis and review of the information returned, data 
+will be broken out into two categories: vulnerable and not vulnerable systems. If the system is located in the ‘vulnerable’ file, an associated portion of 
+that system is not up to date. Conversely, if the system is located in the ‘not vulnerable' file, the system’s patch level is up to date. Systems identified 
+as vulnerable include the CVE score and a link to the CVE.",https://learn.cisecurity.org/ms-isac-registration

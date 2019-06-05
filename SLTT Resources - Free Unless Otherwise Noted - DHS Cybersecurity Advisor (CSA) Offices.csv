@@ -1,0 +1,54 @@
+State,Region,Email
+Alabama,IV,IPRegion4@hq.dhs.gov
+Alaska,X,IPRegion10@hq.dhs.gov
+Arizona,VI ,IPRegion6@hq.dhs.gov
+Arizona,IX,IPRegion9@hq.dhs.gov
+California,IX,IPRegion9@hq.dhs.gov
+Colorado,VIII,IPRegion8@hq.dhs.gov
+Conneticut,I,IPRegion1@hq.dhs.gov
+Deleware,III,IPRegion3@hq.dhs.gov
+District of Columbia,III,IPRegion3@hq.dhs.gov
+Florida,IV,IPRegion4@hq.dhs.gov
+Georgia,IV,IPRegion4@hq.dhs.gov
+Hawaii,IX,IPRegion9@hq.dhs.gov
+Idaho,X,IPRegion10@hq.dhs.gov
+Illinois,V,IPRegion5@hq.dhs.gov
+Indiana,V,IPRegion5@hq.dhs.gov
+Iowa,VII ,IPRegion7@hq.dhs.gov
+Kansas,VII ,IPRegion7@hq.dhs.gov
+Kentucky,IV,IPRegion4@hq.dhs.gov
+Louisiana,VI ,IPRegion6@hq.dhs.gov
+Maine,I,IPRegion1@hq.dhs.gov
+Maryland,III,IPRegion3@hq.dhs.gov
+Massachussets,I,IPRegion1@hq.dhs.gov
+Michigan,V,IPRegion5@hq.dhs.gov
+Minnesota,V,IPRegion5@hq.dhs.gov
+Mississippi,IV,IPRegion4@hq.dhs.gov
+Missouri,VII ,IPRegion7@hq.dhs.gov
+Montana,VIII,IPRegion8@hq.dhs.gov
+Nebraska,VII ,IPRegion7@hq.dhs.gov
+Nevada,IX,IPRegion9@hq.dhs.gov
+New Hampshire,I,IPRegion1@hq.dhs.gov
+New Jersey,II ,IPRegion2@hq.dhs.gov
+New Mexico,VI ,IPRegion6@hq.dhs.gov
+New York,II ,IPRegion2@hq.dhs.gov
+North Carolina,IV,IPRegion4@hq.dhs.gov
+North Dakota,VIII,IPRegion8@hq.dhs.gov
+Ohio,V,IPRegion5@hq.dhs.gov
+Oklahoma,VI ,IPRegion6@hq.dhs.gov
+Oregon,X,IPRegion10@hq.dhs.gov
+Pennsylvania,III,IPRegion3@hq.dhs.gov
+Puerto Rico,II ,IPRegion2@hq.dhs.gov
+Rhode Island,I,IPRegion1@hq.dhs.gov
+South Carolina,IV,IPRegion4@hq.dhs.gov
+South Dakota,VIII,IPRegion8@hq.dhs.gov
+Tennessee,IV,IPRegion4@hq.dhs.gov
+Texas,VI ,IPRegion6@hq.dhs.gov
+Utah,VIII,IPRegion8@hq.dhs.gov
+Vermont,I,IPRegion1@hq.dhs.gov
+Virgin Islands,II ,IPRegion2@hq.dhs.gov
+Virginia,III,IPRegion3@hq.dhs.gov
+Washington,X,IPRegion10@hq.dhs.gov
+West Virginia,III,IPRegion3@hq.dhs.gov
+Wisconsin,V,IPRegion5@hq.dhs.gov
+Wyoming,VIII,IPRegion8@hq.dhs.gov
